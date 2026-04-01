@@ -111,6 +111,7 @@
     "mark.js": "8.11.1",
     "minisearch": "^7.1.2",
     "shiki": "^3.9.2",
+    "vitepress": "^1.6.4",
     "vite": "^7.1.2",
     "vue": "^3.5.18"
   },
@@ -188,7 +189,6 @@
     "sitemap": "^8.0.0",
     "tinyglobby": "^0.2.14",
     "typescript": "^5.9.2",
-    "vitepress": "^1.6.4",
     "vitest": "4.0.0-beta.4",
     "vue-tsc": "^3.0.5",
     "wait-on": "^8.0.4"
